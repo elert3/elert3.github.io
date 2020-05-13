@@ -1,7 +1,8 @@
 ## Welcome to AEM Studio
 
 Andrew Elert Makes
-<p>Est. 2020<p>
+<br>
+Est. 2020
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
