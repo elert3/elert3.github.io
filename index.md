@@ -1,3 +1,4 @@
+<title>AEM Studio </title>
 ## Welcome to AEM Studio
 
 Andrew Elert Makes
