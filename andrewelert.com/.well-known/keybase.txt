@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/m33taphoar
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://andrewelert.com
+  * I am m33taphoar (https://keybase.io/m33taphoar) on keybase.
+  * I have a public key ASBIw0i5AsGYamSzNo-gHyKvUK4n-4fsgAU-DUEHCN46Qwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120fbc530df754ac3bebfd9c6b3cd422fcd72876fc9e547b5400cac4d14026f5b020a",
+      "host": "keybase.io",
+      "kid": "012048c348b902c1986a64b3368fa01f22af50ae27fb87ec80053e0d410708de3a430a",
+      "uid": "8567fe9d497737a19ac7f88c8e0ffd19",
+      "username": "m33taphoar"
+    },
+    "merkle_root": {
+      "ctime": 1641096662,
+      "hash": "b78ba993555a12d024db94fc5239df2c3f31bb92a9c9b857400956c9d5486079b2e049a2f8910a9a83db0baee0248ebe0e714c3280e4c6ebb7f6ebceb12b3cb2",
+      "hash_meta": "3926cf4624e7686940185c74f4dd222bde9f8b754550ec073c515bf88981b03d",
+      "seqno": 21543928
+    },
+    "service": {
+      "entropy": "7wMavGPalgxp18wu4X/GNULr",
+      "hostname": "andrewelert.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.9.0"
+  },
+  "ctime": 1641096710,
+  "expire_in": 504576000,
+  "prev": "2fc3b15caae2b74dc60b57c56889d94ee20f46514579f3fc3edffb6f01418b24",
+  "seqno": 14,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgSMNIuQLBmGpkszaPoB8ir1CuJ/uH7IAFPg1BBwjeOkMKp3BheWxvYWTESpcCDsQgL8OxXKrit03GC1fFaInZTuIPRlFFefP8Pt/7bwFBiyTEIAvDA0cADn/KvGZd7W708QyLTrUkmso898HYJzbE9tXyAgHCo3NpZ8RAsn7srwHN91Y4eGpEdkBfiBh5sBPeiJ172+PerR4yEj97q6PYJAw/lvkeT5yf6K00XSejV0yb6w4PYy5+Kr4sDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIRw0Lss3KCtyex9NMmAP5vQk/cfPAFUBanWsI7tAuiEo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/m33taphoar
+
+==================================================================
